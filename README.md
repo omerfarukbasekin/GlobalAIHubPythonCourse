@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/logo.png)
 
-**Course Date:** 30.03.1999  
+**Course Date:** 15.02.2021 
 **Name:** Ömer Faruk
 **Surname:** Başekin  
 **Email:** omerfarukbasekin@gmail.com  
