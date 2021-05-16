@@ -18,6 +18,6 @@ Some python libraries
 ---
 
 ### Certification
-![](img/certificate_ex.png)
+![](img/06097131027027.jpg)
 
 https://github.com/globalaihub/introduction-to-python
