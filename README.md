@@ -19,5 +19,6 @@ Some python libraries
 
 ### Certification
 ![](img/06097131027027.jpg)
+*https://verified.cv/en/verify/48628858476575
 
 https://github.com/globalaihub/introduction-to-python
